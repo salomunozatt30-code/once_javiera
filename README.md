@@ -15,3 +15,4 @@ Mi URL es: https://github.com/salo.
 
 Lo primero que debemos hacer estando ya en nuestra cuenta es ingresar a **repositorios**. Luego de esto le damos a **New** y a este le podemos dar un nombre (lo cual no es obligatorio). Creamos el repositorio, este nos lleva a Visual Studio Code en donde llenamos la información requerida.
 
+
