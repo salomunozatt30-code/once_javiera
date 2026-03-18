@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Personal</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>Salomé Muñoz</h1>
+        <p><em>Actualmente tengo 16 años.</em></p>
+    </header>
+
+    <main>
+
+        <section>
+            <h2>Sobre mí</h2>
+            <p>
+                Hola, soy Salomé y estoy estudiando desarrollo de software, me gusta aprender cosas nuevas todos los día. 
+                Me considero una persona <strong>responsable y amable</strong>.
+            </p>
+            <p>
+               Actualmente me gusta la media técnica que estoy cursando. Espero graduarme de el colegio con certificado en la media técnica.
+                Empecé esta media técnica en el año <time datetime="2024">2025</time>.
+            </p>
+        </section>
+
+        <section>
+            <h2>Pasatiempos</h2>
+            <ul>
+                <li>Me gusta bailar</li>
+                <li>Disfruto maquillarme</li>
+                <li>Me gusta cocinar</li>
+                <li>Escuchar música</li>
+            </ul>
+        </section>
+
+    </main>
+
+    <footer>
+        <h3>Contacto</h3>
+        <address>
+            Instagram: salomemunoz17 <br>
+            Ciudad: Medellín, Colombia.
+        </address>
+    </footer>
+
+</body>
+</html>
