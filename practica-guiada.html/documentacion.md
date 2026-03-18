@@ -1,4 +1,4 @@
-** Para qué utilicé cada etiqueta en mi tarjeta personal **
+# Para qué utilicé cada etiqueta en mi tarjeta personal 
 
 Lo primero que debí utilizar sin falta es el **!DOCTYPE html>**. Este le dice al navegador que el documento es HTML.
 
