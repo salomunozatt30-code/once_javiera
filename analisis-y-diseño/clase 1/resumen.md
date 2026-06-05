@@ -168,7 +168,7 @@ Descripción de lo que el sistema debe hacer o cumplir.
 
 ---
 
-## No funcionales (CÓMO es)
+## No funcionales
 - Seguridad
 - Rendimiento
 - Idioma
