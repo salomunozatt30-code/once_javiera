@@ -1,6 +1,6 @@
-# Análisis y Diseño de Software — Resumen Completo
+# Análisis y Diseño de Software.
 
-# 1 Idea central del curso
+# 1 Idea central del curso:
 
 Antes de programar, primero se debe:
 
@@ -8,9 +8,9 @@ Antes de programar, primero se debe:
 - Diseñar la solución (**diseño**).
 - Luego implementar (programar).
 
-# 2 Análisis y diseño
+# 2 Análisis y diseño.
 
-## Análisis
+## Análisis:
 - Entender el problema.
 - Identificar necesidades del usuario.
 - Definir requerimientos.
@@ -20,7 +20,7 @@ Antes de programar, primero se debe:
 - ¿Quién lo usa?
 - ¿Qué restricciones existen?
 
-## Diseño 
+## Diseño:
 - Planear la solución.
 - Definir estructura del sistema.
 - Componentes, base de datos, interfaz.
@@ -29,11 +29,7 @@ Antes de programar, primero se debe:
 - ¿Cómo se construye?
 - ¿Cómo se organiza?
 
-## Idea clave
-- Los errores en análisis son más baratos de corregir.
-- La mayoría de fallos vienen de malos requerimientos.
-
-# 3 Ciclo de vida del software
+# 3 Ciclo de vida del software.
 
 1. Análisis de requerimientos.
 2. Diseño.
@@ -42,50 +38,50 @@ Antes de programar, primero se debe:
 5. Despliegue.  
 6. Mantenimiento.  
 
-## Importante
+## Importante:
 - Es un ciclo, no lineal.
 - Se puede volver a fases anteriores.
 
-# 4 Metodologías estructuradas
+# 4 Metodologías estructuradas.
 
-## Idea
+## Idea:
 - Planificación completa desde el inicio.
 - Proceso rígido y ordenado.
 
-## Cascada
+## Cascada:
 - Fases secuenciales.
 - No hay retroceso fácil.
 
-## Modelo V
+## Modelo V:
 - Cada fase tiene su fase de prueba correspondiente.
 - Pruebas desde etapas tempranas.
 
-## Espiral
+## Espiral:
 - Desarrollo por iteraciones.
 - Enfoque en reducción de riesgos.
 
-## Uso recomendado
+## Uso recomendado:
 - Sistemas críticos.
 - Requisitos estables.
 - Alta regulación.
 
-# 5 Metodologías ágiles
+# 5 Metodologías ágiles.
 
-## Idea
+## Idea:
 - Adaptación al cambio.
 - Entregas rápidas e iterativas.
 
-## Manifiesto Ágil
+## Manifiesto Ágil:
 - Personas > procesos.
 - Software funcionando > documentación.
 - Cliente colaborando continuamente.
 - Responder al cambio > seguir un plan.
 
-## Iteración
+## Iteración:
 - Ciclos cortos.
 - Entregas frecuentes.
 
-## Scrum
+## Scrum:
 - Sprints.
 - Roles:
   - Product Owner.
@@ -93,37 +89,37 @@ Antes de programar, primero se debe:
   - Equipo de desarrollo.
 - Reuniones constantes.
 
-## Kanban
+## Kanban:
 - Tablero visual.
 - Limita trabajo en progreso.
 - Mejora flujo de tareas.
 
-## XP
+## XP:
 - Programación en pares.
 - TDD.
 - Refactorización constante.
 
-## Uso recomendado
+## Uso recomendado:
 - Startups.
 - Apps y productos digitales.
 - Requisitos cambiantes.
 
-## Regla simple
+## Regla simple:
 
 - Estable + crítico → Estructurada.  
 - Cambiante + innovación → Ágil.  
 
-# 6 Requerimientos
+# 6 Requerimientos.
 
-## Definición
+## Definición:
 Descripción de lo que el sistema debe hacer o cumplir.
 
-## Funcionales
+## Funcionales:
 - Registrar usuarios.
 - Generar reportes.
 - Calcular datos.
 
-## No funcionales
+## No funcionales:
 - Seguridad.
 - Rendimiento.
 - Idioma.
