@@ -1,6 +1,6 @@
 # Análisis y Diseño de Software.
 
-# 1 Idea central del curso:
+# 1 Idea central del curso.
 
 Antes de programar, primero se debe:
 
